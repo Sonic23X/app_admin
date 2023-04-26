@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>03C9E533-7F6A-4532-BCA5-DEE3BD444D31@svg</title>
+    <defs>
+        <path d="M8,0 L864,0 C864.552285,-3.23497668e-16 865,0.44771525 865,1 L865,949 L865,949 L0,949 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-1"></path>
+        <filter x="-2.1%" y="-1.9%" width="103.9%" height="103.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="-1" dy="-1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="359" height="446" rx="8"></rect>
+        <filter x="-3.5%" y="-2.8%" width="107.0%" height="105.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Staff" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Staff---General---Chat" transform="translate(-1294.000000, -957.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1366" height="1024"></rect>
+            <g id="card/pedido-+-card/pedido-+-card/pedido-Mask" transform="translate(501.000000, 74.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <g id="misc/chat" transform="translate(975.000000, 548.000000)">
+                <g id="Rectangle" stroke-linecap="round" stroke-linejoin="round">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use stroke="#F2F2F2" stroke-width="1" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+                <g id="input/special/file-upload" transform="translate(0.000000, 396.000000)">
+                    <path d="M0,0 L359,0 L359,42 C359,46.418278 355.418278,50 351,50 L8,50 C3.581722,50 5.41083001e-16,46.418278 0,42 L0,0 L0,0 Z" id="bg" stroke="#F2F2F2" fill="#FBFBFB"></path>
+                    <g id="btn/filled/active" transform="translate(319.000000, 13.000000)" stroke="#F2A412" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                        <g id="icon/24/arrow-noline-right">
+                            <polygon id="Triangle" transform="translate(12.818177, 12.157541) rotate(58.000000) translate(-12.818177, -12.157541) " points="12.8181773 1.41670858 19.8181773 19.4167086 14.569437 19.2123732 12.7650604 9.85423132 11.3491912 19.4167086 15.6077497 22.8983734 14.569437 19.2123732 12.7650604 9.85423132 11.3491912 19.4167086 5.81817734 19.4167086"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

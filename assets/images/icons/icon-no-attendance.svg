@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/40/no-asistio@svg</title>
+    <g id="icon/40/no-asistio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M17.6,20.6709677 C22.2035606,20.6709677 25.9354839,16.9390445 25.9354839,12.3354839 C25.9354839,7.73192325 22.2035606,4 17.6,4 C12.9964394,4 9.26451613,7.73192325 9.26451613,12.3354839 C9.26451613,16.9390445 12.9964394,20.6709677 17.6,20.6709677 Z M4,30.3225806 C4,24.992142 8.32117429,20.6709677 13.6516129,20.6709677 L21.5483871,20.6709677 C22.8392104,20.6709677 24.0708485,20.9243694 25.1962699,21.3841411" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2"></path>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" cx="31" cy="31" r="7"></circle>
+        <path d="M28.6313477,28.8227539 L33.5024414,33.6938477 M33.5024414,28.8227539 L28.6313477,33.6938477" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2"></path>
+    </g>
+</svg>
